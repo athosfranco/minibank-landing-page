@@ -1,6 +1,6 @@
 # Minibank Landing Page
 
-### Live Demo: https://cryptohub-app.netlify.app/
+### Live Demo: https://minibank-landing-page.netlify.app/
 
 #### Uma landing page de um banco fictício desenvolvida com React.
 
