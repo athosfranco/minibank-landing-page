@@ -53,7 +53,7 @@ function Footer() {
             </div>
           </ul>
         </div>
-        <a href="https://github.com/athosfranco">
+        <a href="https://github.com/athosfranco" target="_blank">
           <p className="made-by">Feito com ❤ por Athos Franco</p>
         </a>
       </FooterInnerLayout>
